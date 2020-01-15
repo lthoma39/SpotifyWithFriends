@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpotifyWithFriends</string>
+
+    <string name="HostMode">Host</string>
+    <string name="GuestMode">Guest</string>
+
+</resources>
