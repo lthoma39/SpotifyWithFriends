@@ -12,7 +12,7 @@ progress so that we can see the app from start to finish.
 
 ### App Walk-though
 1/15/2020
-<img src=http://http://g.recordit.co/J02RmaoJSU.gif width=200><br>
+<img src=http://g.recordit.co/J02RmaoJSU.gif width=200><br>
 
 ## Tasks (More to be added as I progress)
 - [x] Create splash/launch screen 
