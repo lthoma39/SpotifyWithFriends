@@ -16,6 +16,6 @@ progress so that we can see the app from start to finish.
 ## Tasks (More to be added as I progress)
 - [x] Create splash/launch screen 
 - [x] Create mode for Host/Guest
-  - [] Create Continute button to confirm decision.
-  - [] Prompt User with Dialogue 
-- [] Complete the above tasks then add more tasks
+  - [_] Create Continute button to confirm decision.
+  - [_] Prompt User with Dialogue 
+- [_] Complete the above tasks then add more tasks
