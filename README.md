@@ -16,8 +16,6 @@ progress so that we can see the app from start to finish.
 ## Tasks (More to be added as I progress)
 - [x] Create splash/launch screen 
 - [x] Create mode for Host/Guest
-  - [_]
-- [x] User should see an flip animation when revealing the answer
-- [x] User should see a slide animation when going to the next flashcard
-- [x] User should see a slide animation when going to the previous flashcard
-- [x] Push code to GitHub
+  - [_] Create Continute button to confirm decision.
+  - [_] Prompt User with Dialogue 
+- [_] Complete the above tasks then add more tasks
