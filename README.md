@@ -11,7 +11,7 @@ Since I'm in school still I will try my best to work on this app as often as I c
 progress so that we can see the app from start to finish.
 
 ### App Walk-though
-##1/15/2020
+1/15/2020
 
 <img src=http://g.recordit.co/J02RmaoJSU.gif width=200><br>
 
